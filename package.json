@@ -1,0 +1,20 @@
+{
+  "name": "PomeloRobotDemo",
+  "version": "0.1.1",
+  "private": false,
+  "description": "A distributed load test framework",
+  "author": "<zgli@corp.netease.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NetEase/pomelo-robot-demo"
+  },
+  "dependencies": {
+    "pomelo-protobuf": "0.4.0",
+    "pomelo-protocol": "0.1.6",
+    "socket.io": "1.7.*",
+    "socket.io-client": "1.7.*",
+    "ws": "1.1.1",
+    "underscore":"1.5.2",
+    "mysql": ">=2.0"
+  }
+}
